@@ -18,12 +18,12 @@ las muertes por cáncer entre las mujeres prolog(Miller et al., 2016).
 				 seq(0.16, 0.3, length.out = 50))
 						
 
-
-
-*1
-*2
-*3
-*4
+<ul>
+<li>1 </li>
+<li>2 </li>
+<li>3 </li>
+<li>4 </li>
+<ul>
 
 1. a link [kari](https://github.com/kgenome)
 2. b
